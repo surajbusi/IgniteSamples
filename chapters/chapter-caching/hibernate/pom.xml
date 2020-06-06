@@ -17,7 +17,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <ignite.version>1.6.0</ignite.version>
+    <ignite.version>2.8.1</ignite.version>
     <hibernate.version>4.2.6.Final</hibernate.version>
   </properties>
 
